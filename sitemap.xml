@@ -8,12 +8,6 @@
   
     <url>
     
-      <loc>https://philippbaumeister.github.io/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>https://philippbaumeister.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -27,6 +21,12 @@
     <url>
     
       <loc>https://philippbaumeister.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://philippbaumeister.github.io/</loc>
       <priority>0</priority>
     </url>
   
