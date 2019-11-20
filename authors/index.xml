@@ -5,12 +5,124 @@
     <link>https://philippbaumeister.github.io/authors/</link>
       <atom:link href="https://philippbaumeister.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://philippbaumeister.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Grégoire Montavon</title>
+      <link>https://philippbaumeister.github.io/authors/gr%C3%A9goire-montavon/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/gr%C3%A9goire-montavon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmine MacKenzie</title>
+      <link>https://philippbaumeister.github.io/authors/jasmine-mackenzie/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/jasmine-mackenzie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mareike Godolt</title>
+      <link>https://philippbaumeister.github.io/authors/mareike-godolt/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/mareike-godolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Tosi</title>
+      <link>https://philippbaumeister.github.io/authors/nicola-tosi/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/nicola-tosi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Baumeister</title>
+      <link>https://philippbaumeister.github.io/authors/philipp-baumeister/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/philipp-baumeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastiano Padovan</title>
+      <link>https://philippbaumeister.github.io/authors/sebastiano-padovan/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/sebastiano-padovan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Breuer</title>
+      <link>https://philippbaumeister.github.io/authors/d.-breuer/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/d.-breuer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Sohl</title>
+      <link>https://philippbaumeister.github.io/authors/f.-sohl/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/f.-sohl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Hellard</title>
+      <link>https://philippbaumeister.github.io/authors/h.-hellard/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/h.-hellard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Tosi</title>
+      <link>https://philippbaumeister.github.io/authors/n.-tosi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/n.-tosi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Baumeister</title>
+      <link>https://philippbaumeister.github.io/authors/p.-baumeister/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/p.-baumeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Padovan</title>
+      <link>https://philippbaumeister.github.io/authors/s.-padovan/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/s.-padovan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sz. Csizmadia</title>
+      <link>https://philippbaumeister.github.io/authors/sz.-csizmadia/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/sz.-csizmadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Spohn</title>
+      <link>https://philippbaumeister.github.io/authors/t.-spohn/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/t.-spohn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

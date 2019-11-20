@@ -5,12 +5,28 @@
     <link>https://philippbaumeister.github.io/</link>
       <atom:link href="https://philippbaumeister.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Baumeister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>Philipp Baumeister</title>
       <link>https://philippbaumeister.github.io/</link>
     </image>
+    
+    <item>
+      <title>Using Mixture Density Networks to Infer the Interior Structure of Exoplanets</title>
+      <link>https://philippbaumeister.github.io/publication/baumeister-2019-using-mixture/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication/baumeister-2019-using-mixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix-Propagator Approach to Compute Fluid Love Numbers and Applicability to Extrasolar Planets</title>
+      <link>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
