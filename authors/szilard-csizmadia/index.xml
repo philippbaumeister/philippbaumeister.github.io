@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Szilard Csizmadia | Philipp Baumeister</title>
+    <link>https://philippbaumeister.github.io/authors/szilard-csizmadia/</link>
+      <atom:link href="https://philippbaumeister.github.io/authors/szilard-csizmadia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Szilard Csizmadia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://philippbaumeister.github.io/img/icon-192.png</url>
+      <title>Szilard Csizmadia</title>
+      <link>https://philippbaumeister.github.io/authors/szilard-csizmadia/</link>
+    </image>
+    
+    <item>
+      <title>Matrix-Propagator Approach to Compute Fluid Love Numbers and Applicability to Extrasolar Planets</title>
+      <link>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
