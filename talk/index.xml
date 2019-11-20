@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Philipp Baumeister</title>
+    <title>Recent &amp; Upcoming Talks | Philipp Baumeister</title>
     <link>https://philippbaumeister.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Philipp Baumeister</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Philipp Baumeister 2019</copyright>
-    
-	<atom:link href="https://philippbaumeister.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://philippbaumeister.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright>
+    <image>
+      <url>https://philippbaumeister.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://philippbaumeister.github.io/talk/</link>
+    </image>
     
   </channel>
 </rss>
