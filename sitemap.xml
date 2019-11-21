@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://philippbaumeister.github.io/tags/exoplanets/</loc>
+    <lastmod>2019-11-20T17:10:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/</loc>
+    <lastmod>2019-11-20T17:10:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/project/</loc>
+    <lastmod>2019-11-20T17:10:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/project/spp1992/</loc>
+    <lastmod>2019-11-20T17:10:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/tags/</loc>
+    <lastmod>2019-11-20T17:10:57+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://philippbaumeister.github.io/publication_types/1/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
@@ -18,12 +43,27 @@
   </url>
   
   <url>
+    <loc>https://philippbaumeister.github.io/tags/interior-structure/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://philippbaumeister.github.io/authors/jasmine-mackenzie/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://philippbaumeister.github.io/tags/machine-learning/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://philippbaumeister.github.io/authors/mareike-godolt/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/tags/neural-networks/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +74,6 @@
   
   <url>
     <loc>https://philippbaumeister.github.io/authors/philipp-baumeister/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://philippbaumeister.github.io/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +123,17 @@
   </url>
   
   <url>
-    <loc>https://philippbaumeister.github.io/authors/szilard-csizmadia/</loc>
+    <loc>https://philippbaumeister.github.io/authors/szil%C3%A1rd-csizmadia/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://philippbaumeister.github.io/authors/tilman-spohn/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://philippbaumeister.github.io/publication/baumeister-2018-using-deep/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -111,10 +151,6 @@
   
   <url>
     <loc>https://philippbaumeister.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://philippbaumeister.github.io/tags/</loc>
   </url>
   
 </urlset>

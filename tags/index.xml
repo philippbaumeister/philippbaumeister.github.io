@@ -5,12 +5,44 @@
     <link>https://philippbaumeister.github.io/tags/</link>
       <atom:link href="https://philippbaumeister.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 17:10:57 +0100</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://philippbaumeister.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>exoplanets</title>
+      <link>https://philippbaumeister.github.io/tags/exoplanets/</link>
+      <pubDate>Wed, 20 Nov 2019 17:10:57 +0100</pubDate>
+      <guid>https://philippbaumeister.github.io/tags/exoplanets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interior structure</title>
+      <link>https://philippbaumeister.github.io/tags/interior-structure/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/tags/interior-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://philippbaumeister.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural networks</title>
+      <link>https://philippbaumeister.github.io/tags/neural-networks/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/tags/neural-networks/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
