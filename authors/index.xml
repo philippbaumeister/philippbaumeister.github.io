@@ -5,7 +5,7 @@
     <link>https://philippbaumeister.github.io/authors/</link>
       <atom:link href="https://philippbaumeister.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Grégoire Montavon</title>
       <link>https://philippbaumeister.github.io/authors/gr%C3%A9goire-montavon/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/gr%C3%A9goire-montavon/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Jasmine MacKenzie</title>
       <link>https://philippbaumeister.github.io/authors/jasmine-mackenzie/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/jasmine-mackenzie/</guid>
       <description></description>
     </item>
@@ -31,15 +31,23 @@
     <item>
       <title>Mareike Godolt</title>
       <link>https://philippbaumeister.github.io/authors/mareike-godolt/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/mareike-godolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadine Nettelmann</title>
+      <link>https://philippbaumeister.github.io/authors/nadine-nettelmann/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/authors/nadine-nettelmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicola Tosi</title>
       <link>https://philippbaumeister.github.io/authors/nicola-tosi/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/nicola-tosi/</guid>
       <description></description>
     </item>
@@ -47,7 +55,7 @@
     <item>
       <title>Philipp Baumeister</title>
       <link>https://philippbaumeister.github.io/authors/philipp-baumeister/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/philipp-baumeister/</guid>
       <description></description>
     </item>
@@ -55,7 +63,7 @@
     <item>
       <title>Sebastiano Padovan</title>
       <link>https://philippbaumeister.github.io/authors/sebastiano-padovan/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/authors/sebastiano-padovan/</guid>
       <description></description>
     </item>
