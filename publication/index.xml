@@ -5,12 +5,21 @@
     <link>https://philippbaumeister.github.io/publication/</link>
       <atom:link href="https://philippbaumeister.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://philippbaumeister.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Machine-learning Inference of the Interior Structure of Low-mass Exoplanets</title>
+      <link>https://philippbaumeister.github.io/publication/baumeister-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication/baumeister-2020/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Machine Learning Inference of the Interior Structure of Low-Mass Exoplanets</title>

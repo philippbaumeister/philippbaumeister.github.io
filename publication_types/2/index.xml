@@ -5,7 +5,7 @@
     <link>https://philippbaumeister.github.io/publication_types/2/</link>
       <atom:link href="https://philippbaumeister.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Philipp Baumeister 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://philippbaumeister.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,27 @@
     </image>
     
     <item>
+      <title>Machine-learning Inference of the Interior Structure of Low-mass Exoplanets</title>
+      <link>https://philippbaumeister.github.io/publication/baumeister-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication/baumeister-2020/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Matrix-Propagator Approach to Compute Fluid Love Numbers and Applicability to Extrasolar Planets</title>
       <link>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://philippbaumeister.github.io/publication/padovan-2018-matrixpropagator-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix-Propagator Approach to Compute Fluid Love Numbers and Applicability to Extrasolar Planets</title>
+      <link>https://philippbaumeister.github.io/publication_bkp/padovan-2018-matrixpropagator-approach/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://philippbaumeister.github.io/publication_bkp/padovan-2018-matrixpropagator-approach/</guid>
       <description></description>
     </item>
     
