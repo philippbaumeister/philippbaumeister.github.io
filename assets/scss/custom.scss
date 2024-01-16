@@ -1,0 +1,139 @@
+/*************************************************
+ *  Dark themed components
+ **************************************************/
+
+$sta-primary-lighter: lighten($sta-primary, 30%);
+$sta-bkg-lighter: lighten(rgb(16, 17, 45), 5%);
+
+body.dark,
+.dark .docs-toc-link,
+.dark .docs-sidebar .nav > li:not(.active) > a,
+.dark input,
+.dark .search-results,
+.dark .search-header,
+.dark .form-control,
+.dark .form-control:focus {
+  color: rgb(241, 233, 212);
+  background: rgb(16, 17, 45);
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: rgb(168, 163, 148);
+}
+.dark .experience .text-muted {
+    color: rgba(241, 233, 212, 0.8) !important;
+}
+
+.dark .article-metadata {
+    color: rgba(241, 233, 212, 0.54);
+}
+
+.dark .article-title a {
+  color: rgb(241, 233, 212);
+}
+
+.dark .portrait-title h2 {
+  color: rgb(241, 233, 212);
+}
+
+.dark .portrait-title h3 {
+  color: rgba(241, 233, 212, 0.54);
+}
+
+.dark ul.ul-edu li .description p.institution {
+  color: rgba(241, 233, 212, 0.6);
+}
+
+.dark .pub-icon {
+  color: rgba(241, 233, 212, 0.54);
+}
+
+.dark .talk-metadata {
+  color: rgba(241, 233, 212, 0.54);
+}
+
+.dark .pagination li > a, .pagination li > span {
+  background-color: $sta-dark-background;
+  border: 1px solid #ddd;
+}
+
+.dark .card {
+  background: $sta-bkg-lighter;
+}
+
+.dark .card h4 a {
+  color: $sta-primary;
+  border-bottom: solid 1px transparent;
+}
+
+.dark .card .card-image.hover-overlay::before {
+  background: $sta-primary-lighter;
+}
+
+.dark .card .card-image.hover-overlay::after {
+  color: #fff;
+}
+
+.dark select {
+  background: rgb(40, 42, 54);
+  color: rgb(248, 248, 242);
+}
+
+.dark .badge-light {
+  color: rgba(241, 233, 212, .68);
+  background: rgba(241, 233, 212, .2);
+}
+
+.dark .badge-light[href]:focus,
+.dark .badge-light[href]:hover {
+  background: rgba(241, 233, 212, .3);
+}
+
+.dark a.badge:focus,
+.dark a.badge:hover {
+  color: rgba(241, 233, 212, .68);
+}
+
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+  color: initial;
+}
+
+.article-style aside, .alert-note {
+    color: $sta-primary;
+    background-color: rgb(40, 42, 54);
+    border-color: $sta-primary;
+}
+
+.article-style aside p::before, div.alert > div:first-child::before {
+    color: #00ffff;
+}
+
+.dark .li-cite-author a {
+    color: rgb(241, 233, 212);
+}
+
+site-footer, footer a.back-to-top i {
+    color: rgb(168, 163, 148);
+}
+
+.dark .modal-content,
+.dark .modal button.close {
+    background: hsla(238, 48%, 13%, 1);
+}
+
+.dark pre,
+.dark code {
+    background-color: rgb(16, 17, 45);
+    border-color: rgb(16, 17, 45);
+}
+
+.dark a:hover {
+    color: $sta-primary-lighter;
+    transition: color 0.3s ease;
+}

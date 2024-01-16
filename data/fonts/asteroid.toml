@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Asteroid"
+
+# Optional Google font URL
+google_fonts = "family=Raleway:wgth@400;700&family=Roboto:wgth@400;700;700italic&family=Roboto+Mono"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
