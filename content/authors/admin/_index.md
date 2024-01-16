@@ -6,7 +6,7 @@ title: Philipp Baumeister
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Philipp A.
+first_name: Philipp Alexander
 last_name: Baumeister
 
 # Status emoji
@@ -57,7 +57,7 @@ social:
     link: '/#contact'
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Philipp_Baumeister3
+    link: https://www.researchgate.net/profile/Philipp-Baumeister
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=JYwAgUIAAAAJ
