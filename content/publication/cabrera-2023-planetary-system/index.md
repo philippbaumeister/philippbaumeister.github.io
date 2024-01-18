@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Juan Cabrera
-- D. Gandolfi
-- L. M. Serrano
-- Szilard Csizmadia
-- J. A. Egger
+- Davide Gandolfi
+- Luisa Maria Serrano
+- Szilárd Csizmadia
+- Jo Ann Egger
 - admin
-- A. Krenn
+- Andreas Krenn
 - et al
 tags:
 - ''

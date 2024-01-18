@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Dennis Höning
-- Philipp Baumeister
+- admin
 - John Lee Grenfell
 - Nicola Tosi
 - Michael J. Way

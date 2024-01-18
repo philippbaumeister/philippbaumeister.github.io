@@ -1,14 +1,13 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: 'Effect of Improved Atmospheric Opacities in Modelling Sub-Neptunes: A Case
-  Study for GJ 1214 b'
+title: 'Effect of Improved Atmospheric Opacities in Modelling Sub-Neptunes: A Case study for GJ 1214 b'
 subtitle: ''
 summary: ''
 authors:
 - Jasmine MacKenzie
 - John Lee Grenfell
-- Philipp Baumeister
+- admin
 - Nicola Tosi
 - Juan Cabrera
 - Heike Rauer

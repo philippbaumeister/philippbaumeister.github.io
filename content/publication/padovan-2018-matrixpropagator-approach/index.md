@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sebastiano Padovan
 - Tilman Spohn
-- Philipp Baumeister
+- admin
 - Nicola Tosi
 - Doris Breuer
 - Szilárd Csizmadia

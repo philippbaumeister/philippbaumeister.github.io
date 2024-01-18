@@ -35,4 +35,7 @@ publication_types:
 abstract: ''
 publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202346216
+
+url_code: 'https://github.com/philippbaumeister/exomdn'
+url_dataset: 'https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/676/A106'
 ---
