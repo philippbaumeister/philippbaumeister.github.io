@@ -40,11 +40,6 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo:
-      # Logo text
-      text: "Test"
-      # Logo filename in `assets/media/` folder
-      filename: "DLR.svg"
 
 # Site footer
 

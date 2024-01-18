@@ -13,8 +13,7 @@ authors:
 - Szilárd Csizmadia
 - Hugo Hellard
 - Frank Sohl
-tags:
-- manuscript
+tags: []
 categories: []
 date: '2018-12-01'
 lastmod: 2024-01-16T14:17:08+01:00

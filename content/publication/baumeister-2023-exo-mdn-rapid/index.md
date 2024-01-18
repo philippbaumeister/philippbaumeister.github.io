@@ -3,7 +3,10 @@
 
 title: 'ExoMDN: Rapid characterization of exoplanet interior structures with mixture density networks'
 subtitle: ''
-summary: ''
+summary: 'We present ExoMDN, a machine-learning model for the interior 
+characterization of exoplanets. The model is trained on a large dataset of 
+more than 5.6 million synthetic planets. Given mass, radius, and equilibrium temperature, ExoMDN can deliver a full 
+planetary interior inference in under a second. ExoMDN is freely accessible online, including the training routines.'
 authors:
   - admin
   - Nicola Tosi

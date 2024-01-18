@@ -3,8 +3,8 @@
 
 title: Interior Structure, Mantle-Atmosphere Co-Evolution, and Habitability of Low-Mass
   Exoplanets
-subtitle: ''
-summary: 'Doctoral dissertation'
+subtitle: 'PhD dissertation'
+summary: 'PhD dissertation'
 authors:
 - admin
 tags:
