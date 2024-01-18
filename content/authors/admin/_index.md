@@ -32,6 +32,7 @@ bio: My research interests include exoplanets interiors, rocky planet evolution,
 interests:
   - Interior structures of exoplanets
   - Thermal evolution of rocky planets
+  - Interior-atmosphere interactions
   - Machine learning
 
 # Education to show in About widget
@@ -78,5 +79,11 @@ social:
 highlight_name: true
 ---
 
-Philipp Baumeister is a postdoctoral researcher at the Freie Universität Berlin.
+I am a postdoctoral researcher at Freie Universität Berlin studying the internal structure and long-term evolution 
+of exoplanets. In my research, I am interested in how interactions and feedback processes between the interior and the 
+atmosphere of a planet influence its long-term evolution and potential habitability. Furthermore, I am exploring 
+the application of machine learning methods to the characterization of exoplanet interiors. To this end, I
+developed [ExoMDN]({{< relref "/publication/baumeister-2023-exo-mdn-rapid" >}}), a neural network-based model for rapid 
+characterization of exoplanet 
+interiors.
 {style="text-align: justify;"}

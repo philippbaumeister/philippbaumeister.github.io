@@ -8,8 +8,20 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#featured'
+    identifier: publications
     weight: 20
+  - name: Featured
+    parent: publications
+    url: '#featured'
+    weight: 10
+  - name: Recent
+    parent: publications
+    url: '#recent'
+    weight: 20
+  - name: All
+    parent: publications
+    url: '/publication'
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 30

@@ -71,7 +71,7 @@ sections:
           company_url: ''
           company_logo: TU-Berlin
           location: Berlin
-          date_start: '2015-06-01'
+          date_start: '2015-07-01'
           date_end: '2017-11-21'
           description: ''
         - title: B.Sc. in Physics
@@ -80,7 +80,7 @@ sections:
           company_logo: TU-Berlin
           location: Berlin
           date_start: '2011-10-01'
-          date_end: '2015-06-01'
+          date_end: '2015-07-01'
           description: ''
     design:
       columns: '2'

@@ -25,6 +25,7 @@ sections:
       view: compact
       
   - block: collection
+    id: recent
     content:
       title: Recent Publications
       filters:

@@ -17,7 +17,7 @@ authors:
 tags:
 - ''
 categories: []
-date: '2023-07-01'
+date: '2023-07-19'
 lastmod: 2024-01-16T14:17:07+01:00
 featured: false
 draft: false
@@ -44,3 +44,6 @@ publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202245774
 access_type: Open Access
 ---
+<div class="__dimensions_badge_embed__" data-doi="10.1051/0004-6361/202245774" style="text-align: center;" 
+data-hide-zero-citations="true"></div><script async src="https://badge.dimensions.ai/badge.js" 
+charset="utf-8"></script>
